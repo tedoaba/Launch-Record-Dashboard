@@ -56,6 +56,16 @@ This repository contains a dashboard application built using Dash and Plotly lib
 - Adjust the payload range using the slider to filter data.
 - Explore the pie chart and scatter chart to analyze SpaceX launch records.
 
+## Screenshots
+
+### Total Successful Launches for All Sites
+
+![Total Successful Launches for All Sites)](screenshots/launch-success.png)
+
+### Correlation between Payload Mass and Launch Success
+
+![Correlation between Payload Mass and Launch Success)](screenshots/correlation.png)
+
 ## Credits
 
 - This project is based on data provided by SpaceX and utilizes Dash and Plotly libraries.
